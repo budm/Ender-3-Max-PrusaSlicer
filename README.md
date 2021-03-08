@@ -1,7 +1,9 @@
 # Ender-3-Max-PrusaSlicer
 Download PrusaSlicer here: https://github.com/prusa3d/PrusaSlicer/releases.
 
-Basic profile for normal printing with PLA. Temperatures are set at 205/60. This profile is the basis for what will be my Ender-3 MAX profile without any modifications (Maybe a BLTOUCH down the road). If you have an Ender-3 MAX with some adjustments, you may need to play with some printing parameters.
+This is my basic profile for normal printing with PLA. Temperatures are set at 205/60. This profile is the basis for what will be my Ender-3 MAX profile without any modifications (Maybe a BLTOUCH down the road). If you have an Ender-3 MAX with some adjustments, you may need to play with some printing parameters.
+
+As of posting this profile it is untested, but I assume it is good, but I am not responsible for anything that may occur. 
 
 # GCODE
 The G-Code provided is basic PrusaSlicer G-Code, will make adjustments as time goes on, any major changes will be put here
